@@ -1,0 +1,38 @@
+[
+    {
+      "Name": "Vishu Tembh",
+      "DOB": "14/05/1995",
+      "Height": 137,
+      "City": "Thane",
+      "State": "Mumbai"
+    },
+    {
+      "Name": "Swap Karw",
+      "DOB": "02/06/1988",
+      "Height": 150,
+      "City": "Nagpur",
+      "State": "Maharashtra"
+    },
+    {
+      "Name": "Sanu Joshi",
+      "DOB": "07/07/2008",
+      "Height": 125,
+      "City": "Bihar",
+      "State": "Patna"
+    },
+    {
+      "Name": "Sarah Khan",
+      "DOB": "04/01/1993",
+      "Height": 145,
+      "City": "Hoshiyarpur",
+      "State": "Tamil Nadu"
+    },
+    {
+      "Name": "Milkha Singh",
+      "DOB": "23/01/2002",
+      "Height": 165,
+      "City": "Haryana",
+      "State": "Delhi"
+    }
+  ]
+  
